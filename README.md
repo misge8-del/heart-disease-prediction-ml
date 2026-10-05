@@ -37,10 +37,12 @@ An end-to-end supervised machine learning project for predicting the presence of
 * [Installation](#-installation)
 * [Usage](#-usage)
 * [Technologies](#-technologies)
-* [Reproducibility](#-reproducibility)
+* [Machine Learning Design Principles](#-machine-learning-design-principles)
 * [Limitations and Responsible Use](#-limitations-and-responsible-use)
+* [Responsible Medical AI Statement](#-responsible-medical-ai-statement)  
 * [Future Improvements](#-future-improvements)
 * [Portfolio Checklist](#-portfolio-checklist)
+* [Project Status](#-project-status)
 * [Author](#-author)
 
 ---
